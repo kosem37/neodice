@@ -4,13 +4,13 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 487,                             // <----------------------------- EDIT ME!
+  app_id: 1325,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'neodice',
+  app_name: 'NeoDice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Le3dQoTAAAAABZVe_2-XokNDzHGDUjXRL_wrcJk',  // <----- EDIT ME!
-  redirect_uri: 'http://neodice.ga',
+  redirect_uri: 'http://thehenker.github.io/neodice/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: 'https://a-chat-server.herokuapp.com',
