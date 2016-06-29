@@ -9,8 +9,8 @@ var config = {
   app_name: 'NeoDice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LexiiMTAAAAAPgk61SMBRTB27tlrzKl87arwrgN',  // <----- EDIT ME!
-  redirect_uri: 'http://thehenker.github.io/neodice/',
+  recaptcha_sitekey: '6LdI2CMTAAAAAGMWJ-lJ3k2PXrjlxgcjuzmeq5kq',  // <----- EDIT ME!
+  redirect_uri: 'http://neodice.ml/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: 'https://a-chat-server.herokuapp.com',
